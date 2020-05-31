@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1d6238e3-c623-4d42-9f03-51c4017e8722" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cFcz1oOzyGwbb0P76h5ktsxYOG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\11609\WebstormProjects\untitled" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d6238e3-c623-4d42-9f03-51c4017e8722" name="Default" comment="" />
+      <created>1590043941199</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590043941199</updated>
+      <workItem from="1590043945257" duration="676000" />
+      <workItem from="1590046254682" duration="8378000" />
+      <workItem from="1590128044907" duration="364000" />
+      <workItem from="1590128421000" duration="11067000" />
+      <workItem from="1590214328721" duration="4891000" />
+      <workItem from="1590387458735" duration="2996000" />
+      <workItem from="1590547953289" duration="625000" />
+      <workItem from="1590909288630" duration="814000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="349" y="154" key="IDE.errors.dialog" timestamp="1590130722279">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="349" y="154" key="IDE.errors.dialog/0.0.1536.834@0.0.1536.834" timestamp="1590130722279" />
+    <state x="443" y="57" key="SettingsEditor" timestamp="1590128585816">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="443" y="57" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1590128585816" />
+    <state x="425" y="189" key="run.anything.popup" timestamp="1590135037288">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="425" y="189" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1590135037288" />
+  </component>
+</project>
